@@ -11,5 +11,5 @@ lib         contains precompiled binary static lib for RakNet, it was build from
 The source code for RakNet can be found here
 https://github.com/OculusVR/RakNet
 
-Note that you can not use RakNet for commercial usage beyond 100K budget, check out the detailed usage licence from the offical site
+Note that you can not use free RakNet for commercial usage beyond 100K budget, check out the detailed usage licence from the offical site
 http://www.jenkinssoftware.com/
